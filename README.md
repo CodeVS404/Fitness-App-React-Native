@@ -1,4 +1,4 @@
-# I created an excerpt of the layout of the fitness club application.
+# I created an excerpt of the layout of the fitness club application for React Native.
 
 https://user-images.githubusercontent.com/103426882/163443485-feeb1bfb-9c46-4065-9a7e-9e8b976edf47.mov
 
